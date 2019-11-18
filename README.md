@@ -1,3 +1,5 @@
+                                  PraFrenTech
+
 
 The New School of Design & Technology :: A Nova Escola de Desenho & Tecnologia
 
@@ -18,8 +20,10 @@ Novamente, sejam todos bem vindos.
 
 Com toda estima, honestidade, sinceridade e humildade,
 
-Vitório :: Arquiteto | Professor | Fundador da PraFrenTech - The New School of Design and Technology.
+Vitório Paulo :: Arquiteto | Professor | Web Dev | UI UX Designer | Blogger | Fundador & CEO da PraFrenTech - 
+
+The New School of Design and Technology || A Nova Escola de Desenho e Tecnologia
 
 :)
 
-*Nota: Todos são bem vindos, independente de credo, etnicidade, identidade e/ou opção sexual, idade, deficiência (física ou mental), entre demais questões. A inclusão social, respeito à diversidade e liberdade de viver e pensar de todos, assim como o pacifismo e tolerância são os valores da PraFrenTech.
+*Nota: Todos são bem vindos, independentemente de credo, etnicidade, identidade e/ou opção sexual, idade, deficiência (física ou mental), entre demais questões. A inclusão social, respeito à diversidade e liberdade de viver e pensar de todos, assim como o pacifismo e tolerância são valores indissociáveis da PraFrenTech.
