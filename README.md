@@ -21,10 +21,10 @@ Com toda estima, honestidade, sinceridade e humildade,
 
 Vitório Paulo :: 
 
-           Arquiteto || Professor || Web Dev || UI UX Designer || 
-                            Blogger || Fundador & CEO da PraFrenTech - 
-                                           The New School of Design and Technology
-
-:)
+           Arquiteto | Professor | Web Dev | UI UX Designer | 
+           Blogger | Fundador & CEO da PraFrenTech - 
+           The New School of Design and Technology
+           
+:pray: :pray: :pray:
 
 *Nota: Todos(as) são bem vindos(as), independentemente de credo, etnicidade, identidade e/ou opção sexual, idade, deficiência (física ou mental), entre demais questões. A inclusão social, respeito à diversidade e liberdade de viver e pensar de todos, assim como o pacifismo, tolerância e diplomacia são valores indissociáveis da PraFrenTech.
