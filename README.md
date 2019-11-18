@@ -1,4 +1,4 @@
-              <h3>  PraFrenTech :: The New School of Design & Technology  <h3>
+                 PraFrenTech :: The New School of Design & Technology  
 
 
 Olá você!
@@ -26,7 +26,7 @@ Vitório Paulo ::
            
            Fundador & CEO da PraFrenTech - The New School of Design and Technology
                                            
-           https://www.vitoriopaulo.com                                
+           [GitHub] (https://www.vitoriopaulo.com)                                
 
 
 **Nota:** Todos(as) são bem vindos(as), independentemente de credo, etnicidade, identidade e/ou opção sexual, idade, deficiência (física ou mental), entre demais questões. A inclusão social, respeito à diversidade e liberdade de viver e pensar de todos, assim como o pacifismo, tolerância e diplomacia são valores indissociáveis da PraFrenTech.
