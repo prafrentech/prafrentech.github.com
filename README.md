@@ -1,4 +1,4 @@
-                     PraFrenTech :: The New School of Design & Technology || A Nova Escola de Desenho & Tecnologia
+                                      PraFrenTech :: The New School of Design & Technology
 
 
 Olá você!
@@ -9,7 +9,7 @@ Assim, em honra às minhas paixôes, e à minha modesta bagagem acumulada nas po
 
 A missão da escola é, através da teoria e experimentação, evoluir o pensar, de modo a conceber melhores produtos (não interessa o gênero do Design), em vista de uma vida mais funcional, bela e prazeirosa.
 
-Importante que seja dito amigos que, durante todo o processo de criação, venhamos a nos divertir muito! Individualmente ou em grupo. A vida por si só já é muito difícil companheiros(as): que façamos então todos juntos, da PraFrenTech, não somente mais uma escola, mas A ESCOLA!
+Importante que seja dito amigos(as) que, durante todo o processo de criação, venhamos a nos divertir muito! Individualmente ou em grupo. A vida por si só já é muito difícil companheiros(as): que façamos então todos juntos, da PraFrenTech, não somente mais uma escola, mas A ESCOLA!
 
 Este é meu sonho: convido a todos(as) para sonharmos pois este sonho juntos! 
 
@@ -21,9 +21,9 @@ Com toda estima, honestidade, sinceridade e humildade,
 
 Vitório Paulo :: 
 
-           Arquiteto || Professor || Web Dev || UI UX Designer || Blogger || Fundador & CEO da PraFrenTech - 
-
-                    The New School of Design and Technology || A Nova Escola de Desenho e Tecnologia
+           Arquiteto || Professor || Web Dev || UI UX Designer || 
+                            Blogger || Fundador & CEO da PraFrenTech - 
+                                           The New School of Design and Technology
 
 :)
 
