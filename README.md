@@ -1,4 +1,4 @@
-                                      PraFrenTech :: The New School of Design & Technology
+              PraFrenTech :: The New School of Design & Technology
 
 
 Olá você!
@@ -21,8 +21,8 @@ Com toda estima, honestidade, sinceridade e humildade,
 
 Vitório Paulo :: 
 
-           Arquiteto || Professor || Web Dev || UI UX Designer || 
-                            Blogger || Fundador & CEO da PraFrenTech - 
+           Arquiteto  |  Professor  |  Web Dev  |  UI UX Designer | 
+                            Blogger | Fundador & CEO da PraFrenTech - 
                                            The New School of Design and Technology
 
 :)
